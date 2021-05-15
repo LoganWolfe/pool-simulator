@@ -6,5 +6,5 @@ This program simulates a game of pool using real-world physics.
 The input format for each ball (each on its own line in a text file) is as follows:  
 > [Ball #]  [X-Coordinate]  [Y-Coordinate]  [X-Velocity]  [Y-Velocity]  
 
-The program is written completely in C. Graphics libraries were provided by Ohio State University.   
+The program is written completely in C. Graphics and timing libraries were provided by Ohio State University.   
 
