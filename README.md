@@ -1,6 +1,10 @@
 # Pool Simulation
-This program simulates a game of pool. Input information about each ball and this program will simulate the rest of the game using real-world physics.
-The input format for each ball to include (each on its own line in a text file) is as follows:  
-<Ball #>     <X-Coordinate> <Y-Coordinate>     <X-Velocity> <Y-Velocity>  
+*This project was independently completed and submitted for credit at Ohio State University.*   
+Thus, I am unable to publicly post the code. However, **I will happily review the code privately**.  
+This program simulates a game of pool using real-world physics.  
 
-This program was written completely in C. Graphics libraries were obtained from Ohio State University. This project was independently completed and submitted for credit at Ohio State University. Thus, I am unable to publicly post any code. However, I would happily review the code privately (not for academic purposes).
+The input format for each ball (each on its own line in a text file) is as follows:  
+> [Ball #]  [X-Coordinate]  [Y-Coordinate]  [X-Velocity]  [Y-Velocity]  
+
+The program is written completely in C. Graphics libraries were provided by Ohio State University.   
+
