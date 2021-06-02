@@ -1,4 +1,4 @@
-# Pool Simulation
+# Pool Simulator
 *This project was independently completed and submitted for credit at Ohio State University.*   
 Thus, I am unable to publicly post the code. However, **I will happily review the code privately**.  
 
